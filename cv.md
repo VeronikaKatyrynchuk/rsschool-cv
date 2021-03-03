@@ -10,7 +10,7 @@
 [email](veronikakatyrynchuk15@gmail.com)
 
 ## Summary
-*I'm passionate junior developer that is hungry for success.  I sow the seeds for my bright future*
+*I'm a passionate junior developer that is hungry for success.  I sow the seeds for my bright future*
 
 ## My goals are:
 * To Become a Front End Engeneer 
