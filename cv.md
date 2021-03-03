@@ -6,6 +6,7 @@
 ======
 ## Contact info
 [LinkedIn](https://www.linkedin.com/in/webvero/)
+
 [email](veronikakatyrynchuk15@gmail.com)
 
 ## Summary
@@ -68,7 +69,10 @@ function removeTransition(e) {
 
 ## Languages
 | English | B2 |
+
 | Greek | B2 |
+
 | Ukranian | native |
+
 
 
