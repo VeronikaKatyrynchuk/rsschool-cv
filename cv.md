@@ -3,7 +3,7 @@
 ------
 ### *Front End*
 ![my profile picture](profile.jpg)
-======
+------
 ## Contact info
 [LinkedIn](https://www.linkedin.com/in/webvero/)
 
